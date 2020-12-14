@@ -1,4 +1,7 @@
-##linux snake game <ncurses>
+## linux snake game 
+```
+  need ncurses 
+  support multithread
+```
 
-
-####make run && have fun 
+#### make run && have fun 
